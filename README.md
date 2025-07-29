@@ -1,2 +1,3 @@
-# 1261-tuts
-tidy tutorials for EPSY 1261
+# EPSY 1261 Code Tutorials
+
+Flipped classroom tutorials for EPSY 1261, code-focused
